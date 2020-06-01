@@ -58,7 +58,7 @@ Define- Code - Test
 8. Create one column for the various dog types: doggo, floofer, pupper, puppo, 'doggo, puppo', 'doggo, pupper', 'doggo, floofer'
 9 & 10. Merge the copied df_clean, image_df_clean, and tweet_json_clean dataframes
 
-V. Report
+V. REPORT
 There are 1969 rows and 24 columns in the dataset.
 The student would like to investigate into the dataset regarding following questions:
 -	Which are top frequent names?
